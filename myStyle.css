@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+}
+.taskFinished{
+    text-decoration: line-through;
+}
+
+.checkbox{
+    outline: 1px;
+}
+
+#loggedIn{
+    width: 15%;
+}
