@@ -1,0 +1,18 @@
+[{
+    "email": "test1@fakemail.com",
+    "password": "pass121"
+
+},
+{
+    "email": "test2@fakemail.com",
+    "password": "pass122"
+},
+{
+    "email": "test3@fakemail.com",
+    "password": "pass123"
+},
+{
+    "email": "test4@fakemail.com",
+    "password": "pass124"
+}
+]
